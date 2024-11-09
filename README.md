@@ -1,5 +1,4 @@
-# UTS-TKI_7B-105
-Penugasan UTS TKI
+
 # General Overview 
 Repositori ini berisi kumpulan dataset putusan pengadilan dari Pengadilan Negeri Bogor yang berfokus pada kasus pidana khusus terkait narkotika dan psikotropika. Dataset ini disusun sebagai bagian dari tugas kuliah Temu Kembali Informasi, yang mengeksplorasi teknik akuisisi dan pengelolaan data pada dokumen hukum sebagai sumber pengetahuan.
 # Deskripsi Dataset
